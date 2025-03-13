@@ -1,0 +1,29 @@
+﻿<Page x:Class="ЧЗКзаеб.E3"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ЧЗКзаеб"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="E3" Background="Aqua">
+
+    <Grid>
+        <StackPanel Grid.Row="1" VerticalAlignment="Center"
+                    Height="260">
+            <Button x:Name="trrrr" 
+                    Style="{StaticResource trrrr}" 
+                     Margin="10"  Click="trrrr_Click" Width="200" Height="70">
+                <TextBlock Text="Ноу хомо. Сперма на вкус как яичный белок. Кто бы что не говорил а в анал это ок."
+                           TextWrapping="Wrap"/>
+            </Button>
+            <Button x:Name="hehehe" Style="{StaticResource hehehe}" Content="Следущая пара физра" Click="hehehe_Click" Margin="10" Width="500" />
+            <Button x:Name="ventilator" 
+                    Style="{StaticResource ventilator}" 
+                    Click="ventilator_Click" Margin="10" Width="239" Height="72">
+                <TextBlock Text="Нассы мне полный рот мочи и на спину мне надрочи, затуши мне бычок в сосок и выдерни со своего яйца волосок" 
+                          TextWrapping="Wrap" Height="83" Width="162"/>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Page>
