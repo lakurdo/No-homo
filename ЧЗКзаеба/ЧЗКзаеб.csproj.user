@@ -16,6 +16,9 @@
     <Compile Update="E3.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="Main.Page.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Page Update="E1.xaml">

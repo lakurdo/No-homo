@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Amina\\Desktop\\ЧЗКзаеб\\ЧЗКзаеб.csproj",
+      "projectUniqueName": "C:\\Users\\Amina\\Desktop\\ЧЗКзаеб\\ЧЗКзаеба\\ЧЗКзаеб.csproj",
       "projectName": "ЧЗКзаеб",
-      "projectPath": "C:\\Users\\Amina\\Desktop\\ЧЗКзаеб\\ЧЗКзаеб.csproj",
+      "projectPath": "C:\\Users\\Amina\\Desktop\\ЧЗКзаеб\\ЧЗКзаеба\\ЧЗКзаеб.csproj",
       "packagesPath": "C:\\Users\\Amina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Amina\\Desktop\\ЧЗКзаеб\\obj\\",
+      "outputPath": "C:\\Users\\Amina\\Desktop\\ЧЗКзаеб\\ЧЗКзаеба\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

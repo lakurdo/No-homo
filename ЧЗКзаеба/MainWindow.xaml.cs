@@ -19,6 +19,7 @@ namespace ЧЗКзаеб
         public MainWindow()
         {
             InitializeComponent();
+            mainframe.Navigate(new MainPage());
         }
 
         private void stud_btn_Click(object sender, RoutedEventArgs e)
